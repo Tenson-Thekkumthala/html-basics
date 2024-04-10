@@ -1,0 +1,48 @@
+body   
+{  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: rgb(209, 167, 184);  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: rgb(0, 0, 0);  
+text-decoration: none;  
+}  
+
+table, th, td {
+    border:1px solid black;
+  }
+.video{width: 10cm;}
+
+.reg{
+    background-color: rgb(118, 225, 225);
+    border: 3px solid black;
+    padding: 30px;
+    margin: 20px;
+    
+}
+.table-1{
+    background-color: blanchedalmond;
+}
+.table-2{
+    background-color: rgb(209, 209, 209);
+}
